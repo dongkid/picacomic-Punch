@@ -1,4 +1,4 @@
-# 哔咔签到
+# 哔咔签到 自用修改
 
 - **每天定时运行**
 - **vs2019**
@@ -7,7 +7,7 @@
 ## 使用说明
 
 
-**1. 点击项目右上角进行fork,然后点击你项目中的Setting,找到Secrets添加一个环境变量。
+**1. 点击项目右上角进行fork
 <br/>Name : `ACCOUNTS` 
 <br/>Value : `username1,password1|username2,password2....`**
 
